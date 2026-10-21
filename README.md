@@ -10,6 +10,8 @@ A tiny promise queue for controlled concurrent work in Node.js scripts, workers 
 npm install @sandsoftwaresolutions/job-queue
 ```
 
+Works with `import` and `require()`, and ships TypeScript types for both.
+
 ## Usage
 
 ```js
